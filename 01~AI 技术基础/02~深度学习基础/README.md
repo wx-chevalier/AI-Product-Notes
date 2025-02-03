@@ -1,0 +1,8 @@
+- 神经网络原理
+- 常见网络架构
+  - CNN
+  - RNN
+  - Transformer
+  - BERT/GPT
+- 训练流程
+- 模型部署
